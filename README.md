@@ -8,3 +8,6 @@
 - Banco de dados MongoDB
 - Framework Spring
 - Postman
+
+### Endpoint
+https://api-languages.herokuapp.com/linguagens
